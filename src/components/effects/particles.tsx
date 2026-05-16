@@ -34,7 +34,9 @@ export default function Particles() {
     }
 
     function animate() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
+  if (!ctx) return;
+
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
       
       particles.forEach((particle, i) => {
         particle.x += particle.vx;
