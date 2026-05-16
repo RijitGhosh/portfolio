@@ -26,7 +26,7 @@ export default function Contact() {
             <span className="gradient-text">Get In Touch</span>
           </h2>
           <p className="text-gray-400 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed">
-            Let's connect and discuss opportunities
+            Let&apos;s connect and discuss opportunities
           </p>
         </motion.div>
 
