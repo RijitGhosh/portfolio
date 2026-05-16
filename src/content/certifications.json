@@ -1,0 +1,40 @@
+{
+  "certifications": [
+    {
+      "title": "Oracle Certification",
+      "issuer": "Oracle",
+      "date": "2023",
+      "credential": "Database Management"
+    },
+    {
+      "title": "Programming in C/C++",
+      "issuer": "NPTEL",
+      "date": "2023",
+      "credential": "Advanced Programming"
+    },
+    {
+      "title": "Python for Beginners",
+      "issuer": "Coursera",
+      "date": "2022",
+      "credential": "Python Fundamentals"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "issuer": "Google",
+      "date": "2023",
+      "credential": "AI Fundamentals"
+    },
+    {
+      "title": "DBMS",
+      "issuer": "NPTEL",
+      "date": "2023",
+      "credential": "Database Management Systems"
+    },
+    {
+      "title": "SAP Data Analyst",
+      "issuer": "SAP",
+      "date": "2024",
+      "credential": "Data Analysis with SAP"
+    }
+  ]
+}

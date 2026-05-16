@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "title": "Grocery Billing System",
+      "description": "A comprehensive billing and inventory management system for grocery stores with features like barcode scanning, receipt generation, and sales analytics.",
+      "image": "/projects/grocery-billing.jpg",
+      "github": "https://github.com/RijitGhosh/Grocery-Billing-System",
+      "demo": "",
+      "tags": ["C#", "VB.NET", "Database", "Desktop App"],
+      "featured": true
+    },
+    {
+      "title": "Fake News Detector",
+      "description": "An AI-powered system to detect fake news using machine learning algorithms and natural language processing techniques.",
+      "image": "/projects/fake-news-detector.jpg",
+      "github": "https://github.com/RijitGhosh/FakeNewsDetector",
+      "demo": "",
+      "tags": ["Python", "Machine Learning", "NLP", "AI"],
+      "featured": true
+    },
+    {
+      "title": "Hospital Management System",
+      "description": "A complete hospital management solution with patient records, appointment scheduling, billing, and staff management modules.",
+      "image": "/projects/hospital-management.jpg",
+      "github": "https://github.com/RijitGhosh/Hospital-Management-System",
+      "demo": "",
+      "tags": ["Java", "Database", "Web Application", "Management"],
+      "featured": true
+    }
+  ]
+}

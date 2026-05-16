@@ -1,0 +1,12 @@
+{
+  "name": "Rijit Ghosh",
+  "title": "Computer Science Engineering Student & Data Analyst",
+  "description": "Passionate about data analysis, business intelligence, and building innovative solutions.",
+  "resumeUrl": "/resume.pdf",
+  "theme": {
+    "primary": "#8b5cf6",
+    "secondary": "#3b82f6",
+    "background": "#000000",
+    "foreground": "#ffffff"
+  }
+}

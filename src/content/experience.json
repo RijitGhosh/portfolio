@@ -1,0 +1,25 @@
+{
+  "experience": [
+    {
+      "title": "Microsoft Azure Intern",
+      "company": "AICTE & Microsoft Elevate",
+      "period": "2024",
+      "description": "Worked on cloud solutions and Azure services, gaining hands-on experience in cloud computing and enterprise-level deployments.",
+      "technologies": ["Azure", "Cloud Computing", "Enterprise Solutions"]
+    },
+    {
+      "title": "Intern",
+      "company": "Agnirva Space",
+      "period": "2023",
+      "description": "Contributed to space technology projects, working on data analysis and system optimization for aerospace applications.",
+      "technologies": ["Data Analysis", "Aerospace", "System Optimization"]
+    },
+    {
+      "title": "Freelance Business/Data Analyst",
+      "company": "Self-Employed",
+      "period": "2022 - Present",
+      "description": "Providing data analysis and business intelligence solutions to clients, helping them make data-driven decisions and optimize operations.",
+      "technologies": ["Data Analysis", "Business Intelligence", "Power BI", "Python"]
+    }
+  ]
+}

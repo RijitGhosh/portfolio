@@ -1,0 +1,100 @@
+{
+  "languages": [
+    {
+      "name": "Python",
+      "icon": "Code",
+      "level": 90
+    },
+    {
+      "name": "C",
+      "icon": "Code",
+      "level": 85
+    },
+    {
+      "name": "C++",
+      "icon": "Code",
+      "level": 85
+    },
+    {
+      "name": "Java",
+      "icon": "Code",
+      "level": 80
+    },
+    {
+      "name": "HTML",
+      "icon": "Globe",
+      "level": 90
+    },
+    {
+      "name": "CSS",
+      "icon": "Palette",
+      "level": 85
+    },
+    {
+      "name": "C#",
+      "icon": "Code",
+      "level": 75
+    },
+    {
+      "name": "VB.NET",
+      "icon": "Code",
+      "level": 70
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Node.js",
+      "icon": "Server",
+      "level": 80
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "icon": "GitBranch",
+      "level": 85
+    },
+    {
+      "name": "VS Code",
+      "icon": "FileCode",
+      "level": 90
+    },
+    {
+      "name": "Figma",
+      "icon": "PenTool",
+      "level": 75
+    },
+    {
+      "name": "Power BI",
+      "icon": "BarChart3",
+      "level": 85
+    },
+    {
+      "name": "AWS",
+      "icon": "Cloud",
+      "level": 70
+    },
+    {
+      "name": "MySQL",
+      "icon": "Database",
+      "level": 80
+    }
+  ],
+  "core": [
+    {
+      "name": "Problem Solving",
+      "icon": "Brain",
+      "level": 95
+    },
+    {
+      "name": "Critical Thinking",
+      "icon": "Lightbulb",
+      "level": 90
+    },
+    {
+      "name": "Team Management",
+      "icon": "Users",
+      "level": 85
+    }
+  ]
+}
